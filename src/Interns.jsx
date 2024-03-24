@@ -3,9 +3,18 @@ import React from 'react'
 const Interns = () => {
 
     const objects = [
-        { id: 1, name: 'Galactic Explorer', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: 'path/to/image1.jpg' },
-        { id: 2, name: 'Quantum Computer', score: 88, about: 'A powerful computer that uses quantum mechanics to process information.', imgSrc: 'path/to/image2.jpg' },
-        { id: 20, name: 'Eco-Friendly House', score: 75, about: 'A sustainable house with minimal environmental impact.', imgSrc: 'path/to/image20.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        { id: 1, name: 'Arome Jonathan', score: 92, about: 'An advanced spacecraft designed for deep space exploration.', imgSrc: '/Images/img-4.jpg' },
+        
       ];
       
       const ObjectCard = ({ object }) => (
