@@ -1,11 +1,9 @@
-import { useState } from 'react'
 import './App.css'
-
+import Interns from './Interns'
 function App() {
-  const [count, setCount] = useState()
 
   return (
-<div className=''></div>
+  <Interns/>
   )
 }
 
