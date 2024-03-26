@@ -62,6 +62,11 @@ div.containernav button {
   cursor: pointer;
 }
 
+div.containernav button:hover{
+  background-color: rgb(179, 111, 29);
+  transition: 0.5s;
+}
+
 div.containernav h2 {
   font-weight: 700;
   font-size: 1.3rem;
