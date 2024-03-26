@@ -10,9 +10,11 @@ const Nav = () => {
   };
 
   return (
-    <div>
-      <h2>Navigation</h2>
-      <button onClick={sortItems} >Sort Items by Score</button>
+    <div className='containernav'>
+      <div className='nav-container'>
+      <h2>List of Interns</h2>
+      <button onClick={sortItems} >Highest Scores</button>
+      </div>
     </div>
   );
 };
