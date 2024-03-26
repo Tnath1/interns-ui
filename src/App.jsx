@@ -84,7 +84,7 @@ const App = () => {
       about: "Back End",
       imgSrc: "/Images/img-4.jpg",
     },
-    // Add more items as needed
+    
   ]);
 
   return (
@@ -100,16 +100,4 @@ const App = () => {
 
 export default App;
 
-// import "./App.css";
-// import Interns from "./Interns";
-// import Nav from "./Nav";
-// function App() {
-//   return (
-//     <DataProvider>
-//       <Nav />
-//       <Interns />
-//     </DataProvider>
-//   );
-// }
 
-// export default App;
