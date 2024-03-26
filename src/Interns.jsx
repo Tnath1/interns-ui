@@ -8,7 +8,7 @@ const Interns = () => {
   return (
 
     <div>
-      <h2>Items List</h2>
+      
       <div className="container">
         <div className="card-container">
           {items.map((item) => (
