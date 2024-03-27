@@ -7,8 +7,7 @@ const Interns = () => {
 
   return (
 
-    <div>
-      
+    <>
       <div className="container">
         <div className="card-container">
           {items.map((item) => (
@@ -23,7 +22,7 @@ const Interns = () => {
           ))}
         </div>
       </div>
-    </div>
+    </>
   );
 };
 
